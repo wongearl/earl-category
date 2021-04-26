@@ -1,0 +1,6 @@
+description: |
+version: v0.0.0# 应用商店模板对应的版本
+category: strimzi# 用于模板搜索时的目录
+maintainer: earlwong# 该模板的维护者
+license: appech2.0# 许可类型
+projectURL: https://github.com/wongearl/earl-category # 和模板相关的URL
